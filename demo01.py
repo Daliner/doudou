@@ -17,13 +17,13 @@ print(2>3)
 
 ###print("input 获取的内容是：",a+b)
 #数据格式的转换
-"""
+
 print(type(2333))
 print(type("只能杂散"))
 print(type(()))
 print(type([]))
 print(type({}))
-"""
+
 #a = float(input("请输入： "))
 #b = float(input("请输入： "))
 #print("input获取的内容是：",a+b)
