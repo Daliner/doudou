@@ -17,7 +17,7 @@ print(2>3)
 
 ###print("input 获取的内容是：",a+b)
 #数据格式的转换
-
+"""
 print(type(2333))
 print(type("只能杂散"))
 print(type(()))
@@ -30,3 +30,13 @@ print(type({}))
 
 m = "ffffff"
 print(len(m))
+"""
+#元组
+a = (1,2,3,4,"哈哈","末端",true)
+print(a)
+
+
+
+
+
+
